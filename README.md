@@ -16,7 +16,16 @@
 </p>
 
 ---
+## GitHub snapshot
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rizwan-saddal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwan-saddal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwan-saddal&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 ## What I work on
 
 - Building practical tooling around Model Context Protocol (MCP), VS Code, and AI agents
@@ -54,19 +63,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-Agentic%20Tooling-111827?style=for-the-badge" />
 </p>
-
-## GitHub snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rizwan-saddal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwan-saddal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwan-saddal&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-## Connect
+ 
+ ## Connect
 
 - GitHub: https://github.com/rizwan-saddal
 - Location: Abu Dhabi, UAE
